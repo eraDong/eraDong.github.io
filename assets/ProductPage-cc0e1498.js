@@ -1,0 +1,1 @@
+import{_ as e,o as _,c}from"./index-10921a6c.js";const o={},t={class:"main"};function s(a,n){return _(),c("div",t,"products developing")}const d=e(o,[["render",s],["__scopeId","data-v-b609b5a9"]]);export{d as default};
